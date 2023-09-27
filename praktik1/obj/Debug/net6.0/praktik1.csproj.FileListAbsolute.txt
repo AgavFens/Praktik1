@@ -1,0 +1,14 @@
+C:\Users\Agav\source\repos\praktik1\praktik1\obj\Debug\net6.0\praktik1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agav\source\repos\praktik1\praktik1\obj\Debug\net6.0\praktik1.AssemblyInfoInputs.cache
+C:\Users\Agav\source\repos\praktik1\praktik1\obj\Debug\net6.0\praktik1.AssemblyInfo.cs
+C:\Users\Agav\source\repos\praktik1\praktik1\obj\Debug\net6.0\praktik1.csproj.CoreCompileInputs.cache
+C:\Users\Agav\source\repos\praktik1\praktik1\bin\Debug\net6.0\praktik1.exe
+C:\Users\Agav\source\repos\praktik1\praktik1\bin\Debug\net6.0\praktik1.deps.json
+C:\Users\Agav\source\repos\praktik1\praktik1\bin\Debug\net6.0\praktik1.runtimeconfig.json
+C:\Users\Agav\source\repos\praktik1\praktik1\bin\Debug\net6.0\praktik1.dll
+C:\Users\Agav\source\repos\praktik1\praktik1\bin\Debug\net6.0\praktik1.pdb
+C:\Users\Agav\source\repos\praktik1\praktik1\obj\Debug\net6.0\praktik1.dll
+C:\Users\Agav\source\repos\praktik1\praktik1\obj\Debug\net6.0\refint\praktik1.dll
+C:\Users\Agav\source\repos\praktik1\praktik1\obj\Debug\net6.0\praktik1.pdb
+C:\Users\Agav\source\repos\praktik1\praktik1\obj\Debug\net6.0\praktik1.genruntimeconfig.cache
+C:\Users\Agav\source\repos\praktik1\praktik1\obj\Debug\net6.0\ref\praktik1.dll
